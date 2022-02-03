@@ -35,11 +35,11 @@ ul {
 }
 
 #Header {
-    border: solid 8px black; 
     width: 500px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
+    border: solid 8px black;
     text-align: center;
     background-color: #8E41D5;
 }
@@ -47,11 +47,11 @@ ul {
 
 
 #LeftNav {
-    border: solid 8px black; 
     width: 400px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
+    border: solid 8px black; 
     float: left;
     text-align: center;
     padding-bottom: 8px;
@@ -61,22 +61,22 @@ ul {
 
 
 #Content{
-    border: solid 8px black; 
     width: 700px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
+    border: solid 8px black; 
     text-align: center;
     padding: 15px;
     background-color: #8E41D5;
 }
 
 #Footer{
-    border: solid 8px black; 
     width: 500px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
+    border: solid 8px black; 
     text-align: center;
     background-color: #8E41D5;
 }
